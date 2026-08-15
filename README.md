@@ -1,6 +1,6 @@
-# 🟧 MOBAREZAN — OPENWEBUI RAILWAY
+# MOBAREZAN
 
-## OPENWEBUI INSTALLER SERVER
+## OPENWEBUI INSTALLER
 
 نسخه مخصوص Deploy مستقیم Open WebUI روی Railway با Docker.
 
